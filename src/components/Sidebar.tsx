@@ -98,7 +98,7 @@ export function Sidebar({ config, onDownload, onCopy, onNewConfig, copied }: Sid
         <p className="text-xs text-slate-500">
           Built for the PyEO Forest Alert System
         </p>
-        <p className="text-xs text-slate-600">University of Leicester × UN FAO</p>
+        <p className="text-xs text-slate-600">University of Leicester × UN</p>
       </div>
     </div>
   );
