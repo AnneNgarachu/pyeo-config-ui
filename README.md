@@ -149,7 +149,6 @@ error prone.
 Built by **Anne Ngarachu**
 
 - Portfolio: https://annengarachu.com
-- Email: wanjiruanne95@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anne-wanjiru-ngarachu/
 - GitHub: https://github.com/AnneNgarachu/
 
