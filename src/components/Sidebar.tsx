@@ -96,9 +96,46 @@ export function Sidebar({ config, onDownload, onCopy, onNewConfig, copied }: Sid
       {/* Branding */}
       <div className="bg-slate-900 rounded-xl p-4 border border-slate-800 text-center">
         <p className="text-xs text-slate-500">
-          Built for the PyEO Forest Alert System
+          A configuration tool built for the University of Leicester&apos;s PyEO
+          Forest Alert System.
         </p>
-        <p className="text-xs text-slate-600">University of Leicester × UN</p>
+      </div>
+
+      {/* Contact */}
+      <div className="bg-slate-900 rounded-xl p-4 border border-slate-800 text-center">
+        <p className="text-xs text-slate-400">Built by Anne Ngarachu</p>
+        <div className="mt-2 flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-xs text-slate-500">
+          <a
+            href="https://annengarachu.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-slate-300 transition-colors"
+          >
+            Portfolio
+          </a>
+          <a
+            href="mailto:wanjiruanne95@gmail.com"
+            className="hover:text-slate-300 transition-colors"
+          >
+            Email
+          </a>
+          <a
+            href="https://www.linkedin.com/in/anne-wanjiru-ngarachu/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-slate-300 transition-colors"
+          >
+            LinkedIn
+          </a>
+          <a
+            href="https://github.com/AnneNgarachu/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-slate-300 transition-colors"
+          >
+            GitHub
+          </a>
+        </div>
       </div>
     </div>
   );
